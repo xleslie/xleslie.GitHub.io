@@ -1,14 +1,14 @@
 theme: jekyll-theme-cayman
 
-name:"起名太难了啊"
-description:"记录整理菜鸡的学习之路"
+name: "起名太难了啊"
+description: "记录整理菜鸡的学习之路"
 footer-links:
-  github:xleslie
+  github: xleslie
   email: bitxyd@gmail.com
 gitalk:
-  clientID:469f8489193d783184d8
-  clientSecret:40d58aeff16f2e1d72f2da0e44afe6289bed9021
-  repo:xleslie.GitHub.io
-  owner:xleslie
-url:https://xleslie.github.io
+  clientID: 469f8489193d783184d8
+  clientSecret: 40d58aeff16f2e1d72f2da0e44afe6289bed9021
+  repo: xleslie.GitHub.io
+  owner: xleslie
+url: https://xleslie.github.io
 
